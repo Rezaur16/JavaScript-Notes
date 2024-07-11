@@ -4,7 +4,7 @@
  //Prettier - Code formatter it can format the code 
  // For documentation :https://tc39.es/ecma262/#sec-intro
 //Primitive Datatypes
-//------------------------------------------------------------------
+//-------------------------------------------------------------------------------------
  let name="hitesh"
  let age=18
  //let isLoggedIn=False // boolean
@@ -20,7 +20,7 @@
 // null => standalone value 
 // undefined => 
 // symbol =>unique
-//-----------------------------------------------
+//-------------------------------------------------------------------------------------------------
 
 
 console.log(typeof "hitesh");
