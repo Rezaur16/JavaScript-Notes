@@ -1,3 +1,5 @@
+//*************** Datatypes **********************
+
 //"user strict"//treat all Js code as newer version
 //alert("hello")// we are using nodejs not the the browser
  console.log("3+3");  console.log("Hello"); // code Readablity should be high
