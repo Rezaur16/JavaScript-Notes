@@ -1,7 +1,5 @@
 //*************** Variables **********************
-
 //Contrains
-
 const accountId=144553;
 // not changable 
 console.log(accountId);

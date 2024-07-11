@@ -23,8 +23,6 @@
 // undefined => 
 // symbol =>unique
 //-------------------------------------------------------------------------------------------------
-
-
 console.log(typeof "hitesh");
 // string
 console.log(typeof null);

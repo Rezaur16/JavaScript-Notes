@@ -1,3 +1,5 @@
+//*************** datatypes  **********************
+
 // Primitive Data types
  /*
 7 types
@@ -14,15 +16,10 @@ const score =false;
 // Static or Dynamic ?
 //Dynamic Typing: Variables in JavaScript can hold any type of data, and their type can change at runtime.
 /*for eg:
-
 let x = 42;      // x is a number
 x = "Hello";     // x is now a string
-
 */
-
-
 const id=Symbol('123')
-
 const anotherId=Symbol('123')
 console.log(id==anotherId);// false
 const BigInt=123232323232n
@@ -48,3 +45,6 @@ const myFunction=function(){
 }
 console.log(typeof BigInt)//bigint
 console.log(typeof myFunction)//object function
+
+//1=="1"// convert the value then compare
+// 1==="1"// i)Check datatype then check value
