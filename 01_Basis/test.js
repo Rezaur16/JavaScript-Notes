@@ -1,1 +1,6 @@
-console.log("Ratul");
+/*
+
+*/
+console.log("Ratul")
+// Variables and Contrains
+
