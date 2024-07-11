@@ -62,7 +62,23 @@ console.log(negvalue);
   console.log(1+"2")//12
   console.log("1"+2+2)//122
   console.log(1+2+"2")//32
-  // 7.11 To Primitive 
+  // 7.11 To Primitive read
+  console.log((1+2)* "2")//6
+  console.log(+true);//1
+//  console.log(true+);//error
+ console.log(+"");//0
+ let num1, num2,num3
+ num1=num2=num3=2+2
+ console.log(num1);//4
+ //Postfix js mdn
+ let gameCounter=100
+ gameCounter++
+ console.log(gameCounter);//101
+ //Prefix js mdn
+ let gameCounter1=100
+ ++gameCounter
+ console.log(gameCounter1);//100
+
   
 
 
